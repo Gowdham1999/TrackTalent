@@ -1,0 +1,4 @@
+streamlit
+google-generativeai
+python-dotenv
+PyPDF2   #to extract text from pdf file
